@@ -1,4 +1,4 @@
-# MCP Model
+# MCP Server
 
 
 A Model Context Protocol (MCP) server implementation for Selenium WebDriver, enabling browser automation through standardized MCP clients. 
